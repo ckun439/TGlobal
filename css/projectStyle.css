@@ -1,0 +1,70 @@
+.center {
+	text-align: center;
+}
+
+.logo {
+  width: 100px;
+	height: 100px;
+  float: right;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.logo2 {
+  width: 100px;
+	height: 100px;
+  float: left;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.adventure {
+	border-bottom: 2px solid grey;
+}
+
+#africanphoto {
+	display: block;
+	margin: 0px auto;
+
+	width: 500px;
+	height: 350px;
+}
+
+#content {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+#header-image {
+        height: 80%;
+	background-image: url("../images/Bg.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p {
+  font-family:helvetica
+}
+
+li {
+	font-family:helvetica
+}
+
+#letters {
+  display: block;
+  margin: 0px auto;
+
+  width: 750px;
+  height: 150px;
+}
+
+#applynow {
+  display: block;
+  margin: 0px auto;
+
+  width: 550px;
+  height: 115px;
+}
